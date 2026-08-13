@@ -2,3 +2,4 @@
 docker project
 - `Reverse` helper
 - `Max` helper
+- `Clamp` helper
